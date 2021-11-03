@@ -1,0 +1,30 @@
+{
+  "name": "msyml-admin",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@kangc/v-md-editor": "^2.3.5",
+    "axios": "^0.21.1",
+    "echarts": "^5.1.2",
+    "mockjs": "^1.1.0",
+    "moment": "^2.29.1",
+    "screenfull": "^5.1.0",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.10",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "cross-env": "^7.0.3",
+    "naive-ui": "^2.13.0",
+    "sass": "^1.35.1",
+    "vfonts": "^0.1.0",
+    "vite": "^2.3.7",
+    "vite-plugin-mock": "^2.8.0"
+  }
+}

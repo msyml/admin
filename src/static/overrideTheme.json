@@ -1,0 +1,56 @@
+{
+  "Menu": {
+    "itemIconColorHover": "#409EFFFF",
+    "itemIconColorActive": "#409EFFFF",
+    "itemIconColorChildActive": "#409EFFFF",
+    "arrowColor": "#fffffeFF",
+    "arrowColorHover": "#409EFFFF",
+    "arrowColorChildActive": "#409EFFFF",
+    "arrowColorActive": "#409EFFFF",
+    "itemTextColorActive": "#409EFFFF",
+    "itemTextColorChildActive": "#409EFFFF",
+    "itemTextColorHover": "#409EFFFF",
+    "itemColorActive": "#00000000",
+    "color": "#304156FF",
+    "groupTextColor": "rgb(158, 164, 170)",
+    "itemTextColor": "#fffffeFF",
+    "itemIconColor": "#fffffeFF",
+    "itemColorActiveInverted": "#409EFFFF",
+    "itemColorActiveCollapsedInverted": "#409EFFFF",
+    "itemIconColorCollapsed": "#FFFFFEFF"
+  },
+  "Dropdown": {
+    "optionTextColorActive": "#409EFFFF",
+    "optionTextColorChildActive": "#409EFFFF",
+    "optionColorActive": "#304156FF",
+    "color": "#304156FF",
+    "optionTextColor": "#fffffeFF",
+    "optionTextColorHover": "#409EFFFF",
+    "optionColorHover": "#304156FF",
+    "suffixColor": "#fffffeff",
+    "prefixColor": "#FFFFFEFF"
+  },
+  "Breadcrumb": {
+    "itemTextColorPressed": "#409EFFFF",
+    "itemTextColorHover": "#409EFFFF"
+  },
+  "Button": {
+    "textColorTextHover": "#409EFFFF",
+    "textColorTextFocus": "#409EFFFF",
+    "textColorTextPressed": "#409EFFFF",
+    "textColorGhostHover": "#409EFFFF",
+    "textColorGhostPressed": "#409EFFFF",
+    "textColorGhostFocus": "#409EFFFF",
+    "textColorHover": "#409EFFFF",
+    "textColorPressed": "#409EFFFF",
+    "textColorFocus": "#409EFFFF"
+  },
+  "Pagination": {
+    "itemTextColorHover": "#409EFFFF",
+    "itemTextColorPressed": "#409EFFFF",
+    "itemTextColorActive": "#409EFFFF"
+  },
+  "Spin": {
+    "color": "#409EFFFF"
+  }
+}
